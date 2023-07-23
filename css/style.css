@@ -1,21 +1,5 @@
 ﻿@charset "utf-8";
-/*
-/*	Copyright (c) 2021 Frenify
-/*	Author: Frenify
-/*	This file is made for CURRENT TEMPLATE
-    更多精品模板：http://www.bootstrapmb.com
-/*
 
-
-	List of CSS codes:
-	
-	01) Base
-	02) Site Structure
-	
-
-/*------------------------------------------------------------------*/
-/*	01) Base
-/*------------------------------------------------------------------*/
 :root{
     --main-color: #888888;
     --text-color-for-main-bg: #000;

@@ -1,9 +1,3 @@
-/*
- * Copyright (c) 2021 Frenify
- * 更多精品模板：http://www.bootstrapmb.com
- * This file is made for CURRENT TEMPLATE
-*/
-
 
 (function($){
   "use strict";
